@@ -1,0 +1,7 @@
+User ID,Test Case ID,Year of Assessment,Annual Income,Total Tax Relief,Chargeable Income,Tax Before Rebate,Tax Rebate,Final Tax Payable
+lim,T01,YA 2026,9000.0,9000.0,0.0,0.0,400.0,0.0
+lim,T02,YA 2026,40000.0,9000.0,31000.0,480.0,400.0,80.0
+lim,T03,YA 2026,65000.0,14000.0,51000.0,1610.0,0.0,1610.0
+lim,T04,YA 2026,120000.0,18000.0,102000.0,9900.0,0.0,9900.0
+lim,T05,YA 2026,83000.0,12000.0,71000.0,3890.0,0.0,3890.0
+lim,T01,YA 2026,9000.0,9000.0,0.0,0.0,400.0,0.0
